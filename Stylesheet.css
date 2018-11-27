@@ -1,0 +1,180 @@
+
+
+body {
+/padding: 20px;/
+/padding-top:0px;/
+/margin-top:0px;/
+/margin-left: 10px;/
+/margin-right: 10px;/
+}
+nav {
+    display: inline-block;
+}
+
+header {
+    background-color: lightskyblue;
+    max-height: 100px;
+}
+
+footer {
+    width: 1500px;
+    background-color:gray;
+    height: auto;
+    margin-left: auto;
+    clear: bottom;
+
+}
+
+li.hoop {
+    display: inline-block;
+    margin: 20px;
+}
+
+li.raar{
+    display:block;
+    color: white;
+}
+a {
+    color: white;
+}
+ul {
+
+
+}
+ul#dab {
+    display:block;
+}
+
+section#sss1 {
+    display: grid;
+    grid-template-columns: 70% 30%;
+    width: 100%;
+}
+article#aaa1 {
+    width: 40%;
+    float: right;
+    text-align: left;
+}
+
+
+
+h2#sportclubs {
+    grid-template-columns: 40%;
+    width: 50%;
+    text-align: left;
+    font-size: 23px;
+}
+
+h2#sportclub {
+    grid-template-columns: 40%;
+width: 50%;
+    text-align: left;
+    font-size: 23px;
+}
+
+.flexcontainer {
+    width: 100%;
+    display: flex;
+}
+
+h1#voetbal {
+    margin-left: 50px;
+}
+
+h1#uitslagen {
+    margin-left: 650px;
+    margin-top: -50px;
+    }
+
+img#xxx {
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+img#xxxx {
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+article#bbb1 {
+    width: 200px;
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+article#bbb2 {
+    width: 200px;
+    margin-left: 500px;
+    margin-top: -180px;
+}
+
+article#bbb3 {
+    width: 200px;
+    margin-left: 900px;
+    margin-top: -180px;
+}
+
+img#xxxxx {
+    margin-left: 1200px;
+    margin-top: -260px;
+}
+
+h1#Korfbal {
+    margin-left: 200px;
+ }
+
+ h1#uitslag {
+    margin-left: 800px;
+    margin-top: -50px;
+  }
+
+img#yy {
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+img#yyy {
+    width: 500px;
+    margin-left: 200px;
+    margin-top: 0px;
+}
+
+img#yyyy {
+    width: 220px;
+    margin-left: 1200px;
+    margin-top: -260px;
+}
+
+h1#Basketbal {
+    margin-left: 200px;
+}
+
+img#BasketG {
+    width: 400px;
+    margin-left: 200px;
+    margin-top: 100px;
+}
+
+img#Basketstand {
+    width: 500px;
+    margin-left: 70px;
+    margin-top: 0px;
+}
+
+img#Lebron {
+    width: 220px;
+    margin-left: 1200px;
+    margin-top: -260px;
+}
+
+#Buitenboys {
+    color: black;
+}
+
+#Sporting {
+    color: black;
+}
+
+
